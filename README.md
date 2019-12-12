@@ -36,7 +36,7 @@ As final considerations:
 * You must use proper labeling of your plots, including aspects like: Plot Titles (with date of analysis) and Axes Labels.
 * See [Example Solution](WeatherPy_Example.pdf) for a reference on expected format.
 
-## Hints and Considerations
+## Considerations
 
 * The city data is generated based on random coordinates; as such, your outputs will not be an exact match to the provided starter notebook.
 
